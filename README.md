@@ -1,9 +1,10 @@
 ## Hey 👋
-<a href='https://t.me/fastflow_it'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/telegram.svg" height='18px'/></a>
+
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="360px"/>
 
 
 ### 📊 Github Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=solarmove&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solarmove&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=solarmove&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=solarmove&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </a>
