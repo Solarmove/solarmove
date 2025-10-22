@@ -1,5 +1,3 @@
-<h2 align="center">Hi 👋! I'm Solarmove and I'm a Python Backend Developer from Ukraine</h2>
-
 ###
 
 <div align="center">
